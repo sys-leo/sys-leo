@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Leo 👋</h1>
 <p align="center">
-  Software engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>
+  Software engineer from North Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>
   Leading <a href="https://github.com/kryptoninnovations"><b>krypton</b></a>, a small team building cool open-source projects.
 </p>
 
