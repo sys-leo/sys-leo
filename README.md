@@ -5,7 +5,7 @@
 </p>
 
 ## About Me
-Mostly living in Docker and JavaScript, with some C# and Python on the side.
+Mostly living in Docker and Node, with some C# and Python on the side.
 <p>
   <img src="https://skillicons.dev/icons?i=docker,js,cs,py" alt="Skills" />
 </p>
